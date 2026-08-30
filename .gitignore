@@ -1,0 +1,10 @@
+vendor/
+outputs/
+dist/
+build/
+config.json
+tasks.json
+imported_cache/
+payload_autosave/
+__pycache__/
+*.pyc
